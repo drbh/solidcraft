@@ -1376,6 +1376,7 @@
   "color.step_down": "Schritt nach unten",
   "color.step_up": "Schritt nach oben",
   "color.value": "Hellwert (Prozent)",
+  "component.error.ambiguous_name": "Mehrere Komponenten heißen `{name}`. Verwende eine numerische Komponenten-ID: {ids}.",
   "config.column_filter_empty": "Keine passenden Spalten",
   "config.rule_parameter_columns": "Hier stehen nur Parameter mit einer Spalte in der Tabelle. Fügen Sie eine mit „Spalte hinzufügen“ (+) hinzu, um den Parameter hier zu verwenden.",
   "config.rule_suppression_columns": "Hier stehen nur Funktionen mit einer Spalte „Unterdrücken“ in der Tabelle. Fügen Sie eine mit „Spalte hinzufügen“ (+) hinzu, um die Funktion hier zu steuern.",

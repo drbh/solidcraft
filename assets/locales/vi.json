@@ -1567,6 +1567,7 @@
   "color.step_down": "Giảm một bước",
   "color.step_up": "Tăng một bước",
   "color.value": "Giá trị, độ sáng (phần trăm)",
+  "component.error.ambiguous_name": "Nhiều thành phần có tên `{name}`. Hãy dùng ID thành phần dạng số: {ids}.",
   "config.column_filter_empty": "Không có cột phù hợp",
   "config.rule_parameter_columns": "Chỉ những tham số có cột trong bảng mới được liệt kê. Thêm cột bằng “Thêm cột” (+) để dùng tham số đó ở đây.",
   "config.rule_suppression_columns": "Chỉ những tính năng có cột “Bỏ kích hoạt (Suppress)” trong bảng mới được liệt kê. Thêm cột bằng “Thêm cột” (+) để điều khiển tính năng đó ở đây.",

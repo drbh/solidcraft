@@ -1293,6 +1293,7 @@
   "color.red": "빨강",
   "color.saturation_value": "채도 및 명도",
   "color.selected": "선택한 색상",
+  "component.error.ambiguous_name": "이름이 `{name}`인 구성요소가 여러 개입니다. 숫자 구성요소 ID를 사용하세요: {ids}.",
   "config.column_filter_empty": "일치하는 열이 없습니다",
   "contact.components_count": "구성요소 {count}개",
   "contact.enabled_label": "활성화됨",

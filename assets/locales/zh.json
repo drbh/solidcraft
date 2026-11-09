@@ -1567,6 +1567,7 @@
   "color.step_down": "减少一步",
   "color.step_up": "增加一步",
   "color.value": "明度（百分比）",
+  "component.error.ambiguous_name": "多个组件名为 `{name}`。请使用数字组件 ID：{ids}。",
   "config.column_filter_empty": "没有匹配的列",
   "config.rule_parameter_columns": "此处仅列出在表中有列的参数。使用“添加列”(+) 添加一列，即可在此使用该参数。",
   "config.rule_suppression_columns": "此处仅列出在表中有“抑制”列的特征。使用“添加列”(+) 添加一列，即可在此控制该特征。",

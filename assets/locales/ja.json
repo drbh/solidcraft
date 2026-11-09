@@ -1567,6 +1567,7 @@
   "color.step_down": "1 ステップ下げる",
   "color.step_up": "1 ステップ上げる",
   "color.value": "明度（パーセント）",
+  "component.error.ambiguous_name": "複数のコンポーネントに `{name}` という名前が付いています。数値のコンポーネント ID を使用してください: {ids}。",
   "config.column_filter_empty": "一致する列がありません",
   "config.rule_parameter_columns": "表に列があるパラメータのみが表示されます。ここで使うには「列を追加」(+) で列を追加してください。",
   "config.rule_suppression_columns": "表に「抑制」列があるフィーチャーのみが表示されます。ここで制御するには「列を追加」(+) で列を追加してください。",
